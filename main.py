@@ -1,6 +1,6 @@
 class Info:  # класс для инициализации значения id
 
-    def __init__(self, idx: int):
+    def __init__(self, idx: int): #здесь я сделала изменение для lab5
         self.id = idx
 
     def get_idx(self):
